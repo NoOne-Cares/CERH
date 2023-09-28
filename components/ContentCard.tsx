@@ -46,6 +46,16 @@ export const ContentCard =()=>{
                             <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
                             <span className='py-0.5 px-2'>{note.SubjectSix}</span> 
                         </Link>
+                        <hr />
+                        <Link href={note.SubjectSevenLink.toString()} target='_blank'className='h2 flex felx-row'  >
+                            <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
+                            <span className='py-0.5 px-2'>{note.SubjectSeven}</span> 
+                        </Link>
+                        <hr />
+                        <Link href={note.SubjectEightLink.toString()} target='_blank'className='h2 flex felx-row'  >
+                            <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
+                            <span className='py-0.5 px-2'>{note.SubjectEight}</span> 
+                        </Link>
                     </div>
                 </div>
                 )
