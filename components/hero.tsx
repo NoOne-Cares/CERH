@@ -9,7 +9,7 @@ const HeroSection = () =>{
             <div className="w-full flex flex-col items-center h-screen align-middle
                                 md:flex md:flex-row md:w-full md:px-24 md:align-middle place-content-center">
                 <Image 
-                    src="/xyz.png"
+                    src="https://github.com/NoOne-Cares/CERH/blob/dev/public/xyz.png"
                     alt="Landscape picture"
                     width={800}
                     height={800}
