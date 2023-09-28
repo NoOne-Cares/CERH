@@ -4,7 +4,7 @@ const Footer =()=>{
     return(
         <>
             <section className="bg-gradient-to-b from-blue to-blue pb-10 text-gray-300">
-                <h1 className="text-center text-4xl font-extrabold font-sans py-8">Thannks for visiting</h1>
+                <h1 className="text-center text-4xl font-extrabold font-sans py-8">Thanks for visiting</h1>
                 <section className="w-full flex flex-col items-center align-middle text-center md:flex md:flex-row md:w-full md:px-10 md:gap-20 md:align-middle md:place-content-center">
                     <div>
                         <h1 className="text-center text-1xl font-extrabold font-mono py-2">Social Handles</h1>
