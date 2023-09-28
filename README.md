@@ -1,2 +1,2 @@
 # CERH
-A collection of civil engineering resource hub
+A collection of civil engineering study materialss
