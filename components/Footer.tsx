@@ -13,7 +13,7 @@ const Footer =()=>{
                                 <Link href="https://m.facebook.com/129972693523204/"
                                     className="flex felx-row items-center gap-2">
                                 <Image 
-                                    src="/fb_icon.png"
+                                    src="https://github.com/NoOne-Cares/CERH/blob/dev/public/fb_icon.png?raw=true"
                                     alt="Landscape picture"
                                     width={20}
                                     height={20}
@@ -25,7 +25,7 @@ const Footer =()=>{
                             <li>
                                 <Link href="https://www.linkedin.com/company/ces-nit-silchar/" className="flex felx-row items-center gap-2">
                                 <Image 
-                                    src="/ln_icon.png"
+                                    src="https://raw.githubusercontent.com/NoOne-Cares/CERH/dev/public/ln_icon.png"
                                     alt="linkdien logo"
                                     width={20}
                                     height={20}
@@ -37,7 +37,7 @@ const Footer =()=>{
                             <li>
                                     <Link href="https://instagram.com/civilengineeringsocietynits?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" className="flex felx-row items-center gap-2">
                                         <Image 
-                                            src="/insta_icon.png"
+                                            src="https://github.com/NoOne-Cares/CERH/blob/dev/public/insta_icon.png?raw=true"
                                             alt="insta logo"
                                             width={20}
                                             height={20}
@@ -49,7 +49,7 @@ const Footer =()=>{
                             <li>
                                     <Link href="https://github.com/NoOne-Cares/CERH" target="_blank" passHref className="flex felx-row items-center gap-2">
                                         <Image 
-                                            src="/github_icon.png"
+                                            src="https://github.com/NoOne-Cares/CERH/blob/dev/public/github_icon.png?raw=true"
                                             alt="Landscape picture"
                                             width={20}
                                             height={20}
@@ -61,7 +61,7 @@ const Footer =()=>{
                             <li>
                                     <Link href="mailto:srisumandas66@gmail.com" passHref className="flex felx-row items-center gap-2">
                                         <Image 
-                                            src="/mail_icon.png"
+                                            src="https://github.com/NoOne-Cares/CERH/blob/dev/public/mail_icon.png?raw=true"
                                             alt="Landscape picture"
                                             width={20}
                                             height={20}

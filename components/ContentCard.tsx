@@ -12,38 +12,38 @@ export const ContentCard =()=>{
                     <div className='p-6 rounded-md h-auto border-2 basis-1/2' key={Math.random()}>
                     <div >
                         <Link href={note.SemesterLink.toString()} target='_blank' className='h2 flex felx-row'  >
-                            <Image src="/file.png" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
+                            <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
                             <span className='py-0.5 px-2'>{note.Semester}</span>  
                         </Link>
                     </div>
                     <div className='px-4 grid gap-y-2 py-2'>
                         <Link href={note.SubjectOneLink.toString()} target="_blank" className='h2 flex felx-row '>
-                            <Image src="/file.png" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
+                            <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
                             <span className='py-0.5 px-2'>{note.SubjectOne.toString()}</span> 
                         </Link>
                         <hr />
                         <Link href={note.SubjectTwoLink.toString()} target='_blank' className='h2 flex felx-row'  >
-                            <Image src="/file.png" width={25} height={25} alt="Picture of foldder" className='h-fit' />
+                            <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit' />
                             <span className='py-0.5 px-2'>{note.SubjectTwo}</span> 
                         </Link>
                         <hr />
                         <Link href={note.SubjetThreeLink.toString()} target='_blank' className='h2 flex felx-row'  >
-                            <Image src="/file.png" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
+                            <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
                             <span className='py-0.5 px-2'>{note.SubjetThree}</span> 
                         </Link>
                         <hr />
                         <Link href={note.SubjectFourLink.toString()} target='_blank' className='h2 flex felx-row'  >
-                            <Image src="/file.png" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
+                            <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
                             <span className='py-0.5 px-2'>{note.SubjectFour.toString()}</span> 
                         </Link>
                         <hr />
                         <Link href={note.SubjectFiveLink.toString()} target='_blank' className='h2 flex felx-row'  >
-                            <Image src="/file.png" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
+                            <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
                             <span className='py-0.5 px-2'>{note.SubjectFive}</span> 
                         </Link>
                         <hr />
                         <Link href={note.SubjectSixLink.toString()} target='_blank'className='h2 flex felx-row'  >
-                            <Image src="/file.png" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
+                            <Image src="https://github.com/NoOne-Cares/CERH/blob/dev/public/file.png?raw=true" width={25} height={25} alt="Picture of foldder" className='h-fit'/>
                             <span className='py-0.5 px-2'>{note.SubjectSix}</span> 
                         </Link>
                     </div>
