@@ -32,7 +32,7 @@ export const linkData: {
         SubjetThree:"MA 101 Mathematics I",
         SubjetThreeLink:new URL("https://drive.google.com/drive/folders/1NtwhAxvjjmUFVNMftBILmPTFGiVD6zgd?usp=drive_link"),
         SubjectFour:"ME 101 Engineering Mechanics",
-        SubjectFourLink:new URL("https://drive.google.com/drive/folders/1yCqI0sWGE4wOYekFdcM4l_IrEiE2cWEw?usp=drive_link"),
+        SubjectFourLink:new URL("https://drive.google.com/drive/folders/1NtwhAxvjjmUFVNMftBILmPTFGiVD6zgd?usp=drive_link"),
         SubjectFive:"HS-101 Communicative English",
         SubjectFiveLink:new URL("https://drive.google.com/drive/folders/1cjznkundx5ll85VX20C_rhQRfQ3AaI6a?usp=drive_link"),
         SubjectSix:"PH 101 Physics",
